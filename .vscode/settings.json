@@ -3,7 +3,11 @@
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
+        "app/**/*.js": true,
+        "app/**/*.js.map": true,
         "src/**/*.js": true,
-        "src/**/*.js.map": true
+        "src/**/*.js.map": true,
+        "main.js":true,
+        "main.js.map":true        
     }
 }
